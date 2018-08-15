@@ -174,6 +174,7 @@ public class CrimeListFragment extends Fragment {
         } else {
             mAdapter.notifyDataSetChanged();
         }
+        int yaya = 0;
         updateSubtitle();
     }
 }
